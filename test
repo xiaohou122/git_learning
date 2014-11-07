@@ -6,3 +6,8 @@ git commit -m "..."
 git is free software
 test git 
 learn git 
+
+step4:
+   git has a mutable index called stage.
+
+
